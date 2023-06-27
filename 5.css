@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://imgur.com/wlZuJlr.jpg");
+  background-size: 500;
+}
+
+a.return-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  transition: background-color 1s ease-in-out;
+}
+
+  .upper h1 {
+    width:100%;
+    background-color:#FEE4B3;
+    padding:5px 10px;
+    border-radius:5px;
+    margin-left: 5px;
+    font-size: 40px;
+    color: white;
+    text-align:center;
+  }
